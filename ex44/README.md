@@ -1,0 +1,3 @@
+Write a Python program to locate Python site packages.
+
+site.getsitepackages(): Return a list containing all global site-packages directories.
